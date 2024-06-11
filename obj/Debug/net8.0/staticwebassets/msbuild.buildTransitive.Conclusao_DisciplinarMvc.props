@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Conclusao_DisciplinarMvc.props" />
+</Project>

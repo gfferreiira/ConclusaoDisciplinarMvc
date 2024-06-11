@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "f+NNeitnWAO8sF3UTMN5tbW1D9iCU2vnFF63f0NBFe35+MDbIFRQaL1SqKfreUJ90uuweWaYWAfT64SRkTG0JQ==",
+  "success": true,
+  "projectFilePath": "D:\\WellGui\\DS\\Conclusao_DisciplinarMvc\\Conclusao_DisciplinarMvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.6\\microsoft.aspnetcore.jsonpatch.8.0.6.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.6\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.6.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
