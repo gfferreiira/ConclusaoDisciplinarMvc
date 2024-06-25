@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WellGui\\DS\\Conclusao_DisciplinarMvc\\Conclusao_DisciplinarMvc.csproj": {}
+    "D:\\ConclusaoDisciplinarMvc\\Conclusao_DisciplinarMvc.csproj": {}
   },
   "projects": {
-    "D:\\WellGui\\DS\\Conclusao_DisciplinarMvc\\Conclusao_DisciplinarMvc.csproj": {
+    "D:\\ConclusaoDisciplinarMvc\\Conclusao_DisciplinarMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WellGui\\DS\\Conclusao_DisciplinarMvc\\Conclusao_DisciplinarMvc.csproj",
+        "projectUniqueName": "D:\\ConclusaoDisciplinarMvc\\Conclusao_DisciplinarMvc.csproj",
         "projectName": "Conclusao_DisciplinarMvc",
-        "projectPath": "D:\\WellGui\\DS\\Conclusao_DisciplinarMvc\\Conclusao_DisciplinarMvc.csproj",
+        "projectPath": "D:\\ConclusaoDisciplinarMvc\\Conclusao_DisciplinarMvc.csproj",
         "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-        "outputPath": "D:\\WellGui\\DS\\Conclusao_DisciplinarMvc\\obj\\",
+        "outputPath": "D:\\ConclusaoDisciplinarMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

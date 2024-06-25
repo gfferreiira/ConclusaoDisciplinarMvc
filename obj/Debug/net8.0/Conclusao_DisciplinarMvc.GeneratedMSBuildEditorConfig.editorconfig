@@ -9,47 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Conclusao_DisciplinarMvc
 build_property.RootNamespace = Conclusao_DisciplinarMvc
-build_property.ProjectDir = D:\WellGui\DS\Conclusao_DisciplinarMvc\
+build_property.ProjectDir = D:\ConclusaoDisciplinarMvc\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\WellGui\DS\Conclusao_DisciplinarMvc
+build_property.MSBuildProjectDirectory = D:\ConclusaoDisciplinarMvc
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/WellGui/DS/Conclusao_DisciplinarMvc/Views/Funcionarios/FuncionarioCadastro.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXEZ1bmNpb25hcmlvQ2FkYXN0cm8uY3NodG1s
+[D:/ConclusaoDisciplinarMvc/Views/Funcionarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WellGui/DS/Conclusao_DisciplinarMvc/Views/Home/Index.cshtml]
+[D:/ConclusaoDisciplinarMvc/Views/Funcionarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ConclusaoDisciplinarMvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WellGui/DS/Conclusao_DisciplinarMvc/Views/Home/Privacy.cshtml]
+[D:/ConclusaoDisciplinarMvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WellGui/DS/Conclusao_DisciplinarMvc/Views/Shared/Error.cshtml]
+[D:/ConclusaoDisciplinarMvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WellGui/DS/Conclusao_DisciplinarMvc/Views/Shared/_LoginPartial.cshtml]
+[D:/ConclusaoDisciplinarMvc/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WellGui/DS/Conclusao_DisciplinarMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/ConclusaoDisciplinarMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WellGui/DS/Conclusao_DisciplinarMvc/Views/_ViewImports.cshtml]
+[D:/ConclusaoDisciplinarMvc/Views/Usuarios/AutenticarUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQXV0ZW50aWNhclVzdWFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ConclusaoDisciplinarMvc/Views/Usuarios/CadastrarUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ2FkYXN0cmFyVXN1YXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ConclusaoDisciplinarMvc/Views/Usuarios/IndexInformacoes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXhJbmZvcm1hY29lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ConclusaoDisciplinarMvc/Views/Usuarios/_AlteracaoSenha.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcX0FsdGVyYWNhb1NlbmhhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ConclusaoDisciplinarMvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WellGui/DS/Conclusao_DisciplinarMvc/Views/_ViewStart.cshtml]
+[D:/ConclusaoDisciplinarMvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WellGui/DS/Conclusao_DisciplinarMvc/Views/Shared/_Layout.cshtml]
+[D:/ConclusaoDisciplinarMvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-oietvi435n

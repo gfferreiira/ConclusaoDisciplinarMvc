@@ -12,7 +12,7 @@ namespace Conclusao_DisciplinarMvc.Controllers
 {
     public class UsuarioController : Controller
     {
-         public string uriBase = "sommexyz/Funcionario/";
+         public string uriBase = "http://guiwell.somee.com/PontoApi/Usuarios/";
 
       [HttpGet]
     public ActionResult Index()
