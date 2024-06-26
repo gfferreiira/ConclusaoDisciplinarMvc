@@ -7,7 +7,8 @@ namespace Conclusao_DisciplinarMvc.Controllers
 {
     public class FuncionarioController : Controller
     {
-      public string uriBase = "http://guiwell.somee.com/PontoApi/Funcionario/";
+    //   public string uriBase = "http://guiwell.somee.com/PontoApi/Funcionario/";
+      public string uriBase = "http://localhost:5075/Funcionario/";
 
       [HttpGet]
      public async Task<ActionResult> IndexAsync()
@@ -16,7 +17,7 @@ namespace Conclusao_DisciplinarMvc.Controllers
             {
                 string uriComplementar = "GetAll";
                 HttpClient httpClient = new HttpClient();
-                string token = HttpContext.Session.GetString("SessionTokenUSuario");
+                string token = HttpContext.Session.GetString("SessionTokenUsuario");
                 httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
                 HttpResponseMessage response = await httpClient.GetAsync(uriBase + uriComplementar);
@@ -35,7 +36,7 @@ namespace Conclusao_DisciplinarMvc.Controllers
             catch (System.Exception ex)
             {
                 TempData["MensagemErro"] = ex.Message;
-                return RedirectToAction("Index");
+                return RedirectToAction("Index", "Home");
             }
         }
 

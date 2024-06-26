@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conclusao_DisciplinarMvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b4dc46c18ea5140accd91b91ed1ca5a2cfb3f7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+515cb766cfe0224350d7db4db777766fc00ee6cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conclusao_DisciplinarMvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conclusao_DisciplinarMvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -40,7 +40,7 @@
 Close"></button>
                 </div>
                 <div class="modal-body">
-                    @using (Html.BeginForm("AlterarEmail", "Usuarios", FormMethod.Post))
+                    @using (Html.BeginForm("AlterarEmail", "Usuario", FormMethod.Post))
                     {
                         <div class="form-horizontal">
                             <div class="form-group">
@@ -120,7 +120,7 @@ modal">Fechar</button>
 
         function AbrirModalAlteracaoSenha() {
             $.ajax({
-                url: "@Url.Action("ObterDadosAlteracaoSenha", "Usuarios")",
+                url: "@Url.Action("ObterDadosAlteracaoSenha", "Usuario")",
                 //data: { nomeProp1: valorProp1, nomeProp2: valorProp2, },
                 success: function (retorno) {
                     $("#modalExterno .modal-dialog .modal-content .modal-body").html(retorno);

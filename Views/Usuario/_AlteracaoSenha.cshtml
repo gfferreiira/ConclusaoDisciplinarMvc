@@ -2,7 +2,7 @@
 @{
     Layout = ""; //Fará com que a view não herde o leiaute padrão com menus e rodapés
 }
-@using (Html.BeginForm("AlterarSenha", "Usuarios", FormMethod.Post, new { id = "formSenha" }))
+@using (Html.BeginForm("AlterarSenha", "Usuario", FormMethod.Post, new { id = "formSenha" }))
 {
     <div class="form-horizontal">
         <div class="form-group">
@@ -46,7 +46,7 @@
 
 <script type="text/javascript">
     function AlterarSenha() {
-        var url = "@Url.Action("AlterarSenha", "Usuarios")";
+        var url = "@Url.Action("AlterarSenha", "Usuario")";
         var valdata = $("#formSenha").serialize();
         $.ajax({
             url: url,
@@ -57,7 +57,7 @@
             data: valdata,
             success: function (retorno) {
                 alert(retorno);
-                window.location.href = "@Url.Action("IndexInformacoes", "Usuarios")";
+                window.location.href = "@Url.Action("IndexInformacoes", "Usuario")";
             }
         });
     }

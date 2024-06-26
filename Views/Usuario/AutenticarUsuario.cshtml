@@ -15,7 +15,7 @@
     </div>
 }
 <h2> Área de login do Usuário</h2>
-@using (Html.BeginForm("Autenticar", "Usuarios", FormMethod.Post))
+@using (Html.BeginForm("Autenticar", "Usuario", FormMethod.Post))
 {
     @Html.AntiForgeryToken()
     <div class="form-horizontal">
@@ -34,7 +34,7 @@
         <input type="submit" value="Acessar" class="btn btn-success" /><br />
         <div class="form-group">
             <!-- Outra forma de inclusir um link para uma View-->
-            <p> <a href="/Usuarios">Nunca acessou o sistema? Clique aqui para registrar-se!!!</a> </p>
+            <p> <a href="/Usuario">Nunca acessou o sistema? Clique aqui para registrar-se!!!</a> </p>
         </div>
     </div>
 }
